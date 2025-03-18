@@ -1,2 +1,2 @@
 # AITips
-Let's practice together python, spark and SQL for data experts.
+Let's practice together R,  python, spark and SQL for data experts.

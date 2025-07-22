@@ -11,11 +11,15 @@ A collection of notebooks demonstrating linear regression with different tools i
 
 ## Setup
 
-Install the required Python packages:
+Run the provided setup script to create a virtual environment and install all
+required dependencies:
 
 ```bash
-pip install -r requirements.txt
+./setup.sh
 ```
+
+The sample hiring dataset used in `linear-2020.ipynb` is located at
+`data/hiring.csv`.
 
 For the R notebook, install the tidyverse package inside R:
 
